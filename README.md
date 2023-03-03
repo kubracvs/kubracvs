@@ -12,9 +12,9 @@
 
 #### 📬 Connect with me:
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sezer-%C3%B6kmen-971a21236/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:szrokmn34@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https://medium.com/@szrokmn34)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/kubra-cvs)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:kubracvs@gmail.com)
+<!-- [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https://medium.com/@szrokmn34) -->
 
 </br>
 </br>
@@ -109,11 +109,11 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=szrokmn&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api?username=kubracvs&theme=blue-green"
      alt=""
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=szrokmn&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubracvs&theme=blue-green"
      alt=""
      /> <br/>
 </div>
